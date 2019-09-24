@@ -1,0 +1,1 @@
+webpackJsonp([20],{BOGD:function(e,n){},NaOX:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={mounted:function(){location.href=this.$global.ssoUrl}},o={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var i=t("C7Lr")(r,o,!1,function(e){t("BOGD")},null,null);n.default=i.exports}});
